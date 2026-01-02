@@ -1,12 +1,7 @@
-# Lecture Companion Notebooks
-<div style="font-size:15px; padding:8px; margin:2px; font-weight:600; background-color:#E80808; color:white;text-align:center;">
-    <div style=" ">
-        Introduction to Multidimensional Fourier Transform
-    </div>
-</div>
-<div style="border-bottom: 1px gray dotted; padding:8px;margin:2px;text-align:center; font-size:15px; color:#444;">
-<i>Daniel Sage — École Polytechnique Fédérale de Lausanne (EPFL)</i>
-</div>
+># Lecture Companion Notebooks
+
+## Introduction to Multidimensional Fourier Transform
+*Daniel Sage — École Polytechnique Fédérale de Lausanne (EPFL)*
 
 This repository contains a set of Jupyter notebooks designed as a direct complement to a lecture on Fourier image processing. The notebooks focus on visual intuition, frequency-domain reasoning with many illustrations.
 
