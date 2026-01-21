@@ -5,16 +5,14 @@
 
 This repository contains a set of Jupyter notebooks designed as a direct complement to a lecture on Fourier image processing. The notebooks focus on visual intuition, frequency-domain reasoning with many illustrations.
 
-<p align="center">
-  <img src="test-image-fourier-164.png" width="200">
-  <img src="FFT of test-image-fourier-164-o.png" width="200">
-</p>
+<p align="center"><img src="cell_substrat.png" width="200"><img src="FFT_cell_substrat.png" width="200"></p>
 
 ## Scope
 
 - Fourier decomposition of images, Fourier-based reconstruction and demonstrations of Fourier properties
 - Convolution and deconvolution in the frequency domain
-- Structured Illumination Microscopy (SIM) 
+- Experiment basic Super-Resolution SIM Reconstruction (Structured Illumination Microscopy) 
+<p align="center"><img src="SIM-reconstruction.png" width="600"></p>
 
 ## Intended use
 
