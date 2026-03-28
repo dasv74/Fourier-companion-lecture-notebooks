@@ -7,6 +7,8 @@ This repository contains a set of Jupyter notebooks designed as a direct complem
 
 <p align="center"><img src="cell_substrat.png" width="200"><img src="FFT_cell_substrat.png" width="200"></p>
 
+[Open **3_Fourier_Properties.ipynb** in JupyterLite](https://dasv74.github.io/fourier-companion-lecture-jupyterlite/lab/index.html?path=3_Fourier_Properties.ipynb)
+
 ## Scope
 
 - Fourier decomposition of images, Fourier-based reconstruction and demonstrations of Fourier properties
